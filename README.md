@@ -23,6 +23,9 @@ ML-модель для предсказания вероятности отчи�
 4. Curricular units 1st sem (grade)
 5. Tuition fees up to date
 
+## 📸 Скриншот
+![Дашборд](screenshot.png)
+
 ## Запуск
 
 pip install streamlit pandas numpy scikit-learn
